@@ -1,3 +1,3 @@
-hello hello hello 
-this is a conflict
-conflicting file
+# References
+
+* octocat 1 😈
